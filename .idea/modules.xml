@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/supervise.iml" filepath="$PROJECT_DIR$/supervise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supervise-api-gateway/supervise-api-gateway.iml" filepath="$PROJECT_DIR$/supervise-api-gateway/supervise-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supervise-commons/supervise-commons.iml" filepath="$PROJECT_DIR$/supervise-commons/supervise-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supervise-commons-config/supervise-commons-config.iml" filepath="$PROJECT_DIR$/supervise-commons-config/supervise-commons-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supervise-commons-core/supervise-commons-core.iml" filepath="$PROJECT_DIR$/supervise-commons-core/supervise-commons-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supervise-server-discovery/supervise-server-discovery.iml" filepath="$PROJECT_DIR$/supervise-server-discovery/supervise-server-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supervise-server-rpc/supervise-server-rpc.iml" filepath="$PROJECT_DIR$/supervise-server-rpc/supervise-server-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supervise-service-medicare/supervise-service-medicare.iml" filepath="$PROJECT_DIR$/supervise-service-medicare/supervise-service-medicare.iml" />
+    </modules>
+  </component>
+</project>

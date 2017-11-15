@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="supervise-api-gateway" />
+        <module name="supervise-commons" />
+        <module name="supervise-commons-config" />
+        <module name="supervise-commons-core" />
+        <module name="supervise-server-discovery" />
+        <module name="supervise-server-rpc" />
+        <module name="supervise-service-medicare" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="supervise" target="1.8" />
+      <module name="supervise-api-gateway" target="1.8" />
+      <module name="supervise-commons" target="1.8" />
+      <module name="supervise-commons-config" target="1.8" />
+      <module name="supervise-commons-core" target="1.8" />
+      <module name="supervise-server-discovery" target="1.8" />
+      <module name="supervise-server-rpc" target="1.8" />
+      <module name="supervise-service-medicare" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

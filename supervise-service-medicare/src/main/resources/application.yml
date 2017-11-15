@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: alpha-self-diagnosis
+  profiles:
+    active: core
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:17081/eureka/
+#  instance:
+#      status-page-url: http://doctorppe.zhyaoshi.com/info
+server:
+  port: 17092
+logging:
+  config: classpath:logback-medicare.xml

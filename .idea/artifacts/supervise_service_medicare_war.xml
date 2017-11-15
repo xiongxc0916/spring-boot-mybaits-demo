@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="supervise-service-medicare:war">
+    <output-path>$PROJECT_DIR$/supervise-service-medicare/target</output-path>
+    <root id="archive" name="supervise-service-medicare.war">
+      <element id="artifact" artifact-name="supervise-service-medicare:war exploded" />
+    </root>
+  </artifact>
+</component>
